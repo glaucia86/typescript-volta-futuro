@@ -4,7 +4,6 @@
  * Autora: Glaucia Lemos
  * Descrição: Exemplo de como usar o optional chaining no Typescript
  * Optional Chaining Doc: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html
- * Video: https://www.youtube.com/watch?v=RJ9G_KshJ9s
  */
 
 interface Evento {

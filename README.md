@@ -31,7 +31,7 @@ Siga os passos abaixo:
 * ✅ **[Configuração do TypeScript no Vs Code](https://code.visualstudio.com/docs/languages/typescript?wt.mc_id=codecon2020-github-gllemos)**
 * ✅ **[Use TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=codecon2020-github-gllemos)**
 * ✅ **[Depurando o TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-debugging?WT.mc_id=codecon2020-github-gllemos)**
-* ✅ **[Diversos Tutoriais Microsoft Docs - TypeScript ](https://docs.microsoft.com/visualstudio/javascript/?view=vs-2019&WT.mc_id=codecon2020-github-gllemos)**
+* ✅ **[Diversos Tutoriais Microsoft Docs - TypeScript](https://docs.microsoft.com/visualstudio/javascript/?view=vs-2019&WT.mc_id=codecon2020-github-gllemos)**
 
 ## ❗️❗️ Dúvidas?! 
 
