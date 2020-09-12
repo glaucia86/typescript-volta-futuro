@@ -23,7 +23,7 @@ Siga os passos abaixo:
 - 👉 Execute Ctrl + Shift + B (Windows Users)
 - 👉 node + (file-name)
 
-![vscode-tips-02.gif](https://s2.gifyu.com/images/vscode-tips-02.gif)
+> Dúvidas, me avisem caso não consigam!
 
 ## 🔥 Links e Recursos Adicionais 
 
