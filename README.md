@@ -6,7 +6,7 @@ Repositório responsável pelas demos feitas durante o evento - **[CodeCon 2020]
 
 ## 💻 Recursos Utilizados 
 
-- VsCode - **[DOWNLOAD AQUI](https://code.visualstudio.com/?wt.mc_id=codecon2020-github-gllemos)**
+- VsCode - **[DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - Node.Js - **[DOWNLOAD AQUI](https://nodejs.org/en/)**
 - TypeScript 3.x - **[DOWNLOAD - AQUI](https://www.typescriptlang.org/?wt.mc_id=codecon-github-gllemos)**
 
@@ -28,10 +28,10 @@ Siga os passos abaixo:
 ## 🔥 Links e Recursos Adicionais 
 
 * ✅ **[Documentação Oficial do TypeScript](https://www.typescriptlang.org/docs/home.html?wt.mc_id=codecon2020-github-gllemos)**
-* ✅ **[Configuração do TypeScript no Vs Code](https://code.visualstudio.com/docs/languages/typescript?wt.mc_id=codecon2020-github-gllemos)**
-* ✅ **[Use TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=codecon2020-github-gllemos)**
-* ✅ **[Depurando o TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-debugging?WT.mc_id=codecon2020-github-gllemos)**
-* ✅ **[Diversos Tutoriais Microsoft Docs - TypeScript](https://docs.microsoft.com/visualstudio/javascript/?view=vs-2019&WT.mc_id=codecon2020-github-gllemos)**
+* ✅ **[Configuração do TypeScript no Vs Code](https://code.visualstudio.com/docs/languages/typescript?WT.mc_id=javascript-0000-gllemos)**
+* ✅ **[Use TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-0000-gllemos)**
+* ✅ **[Depurando o TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-debugging?WT.mc_id=javascript-0000-gllemos)**
+* ✅ **[Diversos Tutoriais Microsoft Docs - TypeScript](https://docs.microsoft.com/visualstudio/javascript/?view=vs-2019&WT.mc_id=javascript-0000-gllemos)**
 
 ## ❗️❗️ Dúvidas?! 
 
