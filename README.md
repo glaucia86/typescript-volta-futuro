@@ -35,5 +35,5 @@ Siga os passos abaixo:
 
 ## ❗️❗️ Dúvidas?! 
 
-Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente basta criar uma **[ISSUE AQUI](https://github.com/glaucia86/codecon2020-ts-demo/issues)** no GitHub que estarei respondendo a vocês!! :D :D 
+Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente basta criar uma **[ISSUE AQUI](https://github.com/glaucia86/typescript-volta-futuro/issues)** no GitHub que estarei respondendo a vocês!! :D :D 
 
